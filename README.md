@@ -1,3 +1,5 @@
+#autor: Denisa Mensatorisová
+
 # autaspz
 zadanie MIP auta SPZ
 program pre prácu so súborom predajcov aut
