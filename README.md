@@ -18,4 +18,5 @@ každá funkcia bola priebežne refaktorovaná - vylepšená a testovaná do fin
    urobila som branch existujúcej verzie a zároveň som vykonala push verzie na Git server do repository "git-refactoring-mip-2017-DeMensa123"
 5. v novej lokálnej verzii som pokračovala s vytváraním ďalších funkcií "n" + úpravy a doladenie funkcií "v" a "o" (refaktoring)
 6. dokončenie funkcie "n" a pridanie funkcií "p" a "s"
+7. dokončenie a posledné opravy kódu - napr. uvoľnovanie pamäti, úprava podmienok v palindróme
 
